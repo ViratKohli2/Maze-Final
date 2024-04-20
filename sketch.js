@@ -294,9 +294,6 @@ if(mario.isTouching(coin1)){
     mario.velocityY = 0
    }
 
-  
-
-
 
 
   
